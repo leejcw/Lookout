@@ -9,3 +9,6 @@ Following the Apple Watch design principle of an interaction time of 5 seconds o
 
 ## Special Thanks
 I would like to extend my thanks to the Apple engineers who critiqued the UI and usability of my app as I worked. It was important for me that my app was aesthetically pleasing and made sense to others as well, so that it would not be a tool that only I could take advantage of.
+
+## Please download the available binary.
+### OS X El Capitan only. Please email leejcw@gmail.com for Yosemite or source.
