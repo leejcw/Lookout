@@ -1,5 +1,5 @@
 # Lookout
-## Hack for PennApps XII - September 4-6 2015
+## Created September 2015
 
 The number one challenge of living in the modern world is information overload, and keeping track of everything is no trivial task. Context switching between what is currently on your screen and any sort of organizational app is distracting and time consuming (think about accidentally flying three desktops over!). Often the distraction of noting down future plans is more than that of the text or phone call that notified you of it.
 
@@ -11,4 +11,4 @@ Following the Apple Watch design principle of an interaction time of 5 seconds o
 I would like to extend my thanks to the Apple engineers who critiqued the UI and usability of my app as I worked. It was important for me that my app was aesthetically pleasing and made sense to others as well, so that it would not be a tool that only I could take advantage of.
 
 ## Please download the available binary.
-### OS X El Capitan only. Please email leejcw@gmail.com for Yosemite or source.
+### OS 10.10 Please email leejcw@gmail.com for source.
